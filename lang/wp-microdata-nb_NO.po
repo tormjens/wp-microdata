@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Microdata\n"
+"POT-Creation-Date: 2015-03-16 11:05+0100\n"
+"PO-Revision-Date: 2015-03-16 12:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-microdata.translations.php:13
+msgid "Microdata"
+msgstr "Mikrodata"
+
+#: ../wp-microdata.translations.php:14
+msgid "Add Wrapper"
+msgstr "Legg til omslag"
+
+#: ../wp-microdata.translations.php:15
+msgid "Insert Microdata Wrapper"
+msgstr "Sett inn mikrodata omslag"
+
+#: ../wp-microdata.translations.php:16
+msgid "This element should wrap all elements with microdata."
+msgstr ""
+"Dette elementer skal pakke inn alle elementer som inneholder "
+"microdata."
+
+#: ../wp-microdata.translations.php:17
+msgid "Type"
+msgstr "Type"
+
+#: ../wp-microdata.translations.php:18
+msgid "Add Element"
+msgstr "Legg til element"
+
+#: ../wp-microdata.translations.php:19
+msgid "Insert Microdata Element"
+msgstr "Sett inn mikrodata element"
+
+#: ../wp-microdata.translations.php:20
+msgid ""
+"The property of each element should match the specification for the "
+"itemscope."
+msgstr ""
+"Hvert elements egenskap skal passe i forhold til spesifikasjonen "
+"for angitt itemscope."
+
+#: ../wp-microdata.translations.php:21
+msgid "Property"
+msgstr "Egenskap"
+
+#: ../wp-microdata.translations.php:22
+msgid "HTML Element"
+msgstr "HTML element"
